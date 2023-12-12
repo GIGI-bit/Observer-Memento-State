@@ -10,3 +10,4 @@ Yuxarıdakı şəkildə izləyicilər Subscriber ve Viewer olmaqla ikiyı bölü
 ![Memento drawio](https://github.com/GIGI-bit/Observer-Memento-State/assets/64860005/57560d3d-27cd-4758-a983-21d6b085c7b4)
 
 ------------------------------------------------------- STATE ----------------------------------------------------------
+![MicrosoftTeams-image](https://github.com/GIGI-bit/Observer-Memento-State/assets/64860005/75e419f2-1151-476c-be0a-67670f84a04c)
